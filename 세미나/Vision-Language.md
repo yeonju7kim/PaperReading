@@ -19,3 +19,6 @@
 - linear layer로 image space에서 text space로 projection
 ![image](https://github.com/yeonju7kim/PaperReading/assets/95571735/7cb3f3c3-7386-483e-8e60-4b252d77faa6)
 - InfoNCE, where NCE stands for Noise-Contrastive Estimation, is a type of contrastive loss function used for self-supervised learning.
+
+## IFSeg: Image-free Semantic Segmentation via Vision-Language Model
+- 
